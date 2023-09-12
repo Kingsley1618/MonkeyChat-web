@@ -1,0 +1,33 @@
+.form {
+    width:100%;
+    max-width: 600px;
+    display: block;
+    margin:auto;
+    background-color: rgba(0, 0, 0, 0.897);
+    padding:15px;
+    border-radius: 26px;
+ 
+}
+
+.forgot {
+    color:rgb(62,142,255);
+    float : right;
+    font-weight: 600;
+
+}
+
+
+.btn {
+    display: block;
+    margin:auto;
+    color:white;
+    background-color: rgb(22,119,255);
+    font-weight: bold;
+    width:100%;
+}
+.signuptext {
+    color:rgb(62,142,255);
+  font-size:16px;
+    font-weight: 600;
+text-align: center;
+}
